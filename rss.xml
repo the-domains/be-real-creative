@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Be Real Creative]]></title>
         <description><![CDATA[Be Real Creative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/be-real-creative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 16:07:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 16:07:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/be-real-creative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing The Grid. This is some text. Can I bold the text? No I can't. ]]></title>
+            <description><![CDATA[<article><h1>Testing The Grid. This is some text. Can I bold the text? No I can't. </h1><p>"I don't know what I'm supposed to do next." I said to the pixelated Japanese face at the other end of my Skype call. I could feel the strain in my voice as I struggled to mask the restlessness and frustration inside of me. He looked back at me with an expression of compassionate amusement....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/750e9cd76746819caf10e226b22b27c9200ce398.jpg"></article>]]></description>
+            <link>https://emergentbydesign.com/2015/01/26/journey-towards-a-mythic-life/</link>
+            <guid isPermaLink="false">a7f07a11-7796-480b-818f-aec0a78c229c</guid>
+            <pubDate>Sun, 08 May 2016 16:07:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another note for this post. ]]></title>
             <description><![CDATA[<article><h1>Another note for this post. </h1><p>Scott Barry Kaufman: Implicit learning is this ability to subconsciously soak up the probabilistic structure of the universe to put it in a very technical term. Basically it's our ability, you know, there's constantly patterns going on in our environment, even social situations there's constant patterns of people were talking to, just in nature there are patterns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae643d6928b5f185b2ec7f7f34caddcca69ab1e8.jpg"></article>]]></description>
